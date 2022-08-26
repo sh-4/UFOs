@@ -11,18 +11,15 @@ In order to learn more about UFO sightings, one must first scroll down to the ta
 
 If someone is curious about more specific sightings, they can utilize the **Filter Search** to the left of the data:
 
-![blank_filters](https://user-images.githubusercontent.com/105808695/186503450-05deebbf-0a3e-4abf-95d1-72fa9b0a8d38.png)
-
+![blank_filters](https://user-images.githubusercontent.com/105808695/186794000-cc7e67d7-a216-43e3-bbe1-631ce3ca72f4.png)
 
 Any, or all, of these specific fields can then be used to show only that data in the table to the right. Using the format suggested in the input boxes, here is an example of searching for only sightings in Kentucky. To start, **input “ky” into the state field**, as that is Kentucky’s abbreviation and how the table will recognize which data we want:
 
-![search_ky](https://user-images.githubusercontent.com/105808695/186503524-d8cdb3f6-2b63-451c-8865-aa145dded40e.png)
-
+![search_ky](https://user-images.githubusercontent.com/105808695/186794034-2af92de4-7540-4687-b8ab-d0a3a51ad582.png)
 
 Now, the user can **press enter** to complete their search of only UFO sightings in the state of Kentucky, and we can see how the table has adjusted:
 
-![results_ky](https://user-images.githubusercontent.com/105808695/186503563-b2e04923-40ca-4fe5-ab3a-dd7e1c22c063.png)
-
+![results_ky](https://user-images.githubusercontent.com/105808695/186794065-103c1fc1-0e66-40d2-96e7-0ee6218d4cf1.png)
 
 This process can be repeated using any, or all, of the given search fields to meet the needs of any curious viewer.
 
